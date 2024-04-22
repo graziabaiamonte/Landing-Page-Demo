@@ -1,6 +1,5 @@
-## Visit the (https://graziabaiamonte.github.io/Landing-page-demo/)
+## Visit the(https://graziabaiamonte.github.io/Landing-page-demo/)
 
-Modern landing page built with typescript and next.js
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
