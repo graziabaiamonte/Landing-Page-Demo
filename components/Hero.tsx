@@ -12,7 +12,7 @@ function Hero() {
         <div className='relative z-20 flex flex-1 flex-col xl:w-1/2'>
       
           
-            <h1 className="bold-52 lg:bold-88 text-white fontHeader uppercase ">Lorem ipsum dolor.</h1>
+            <h1 className="bold-52 lg:bold-88 text-white fontHeader uppercase ">Lorem ipsum dolor sit.</h1>
             <p className="regular-16 mt-6 text-white xl:max-w-[520px]">
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                 Dicta magni suscipit cum natus a neque quidem quia minus pariatur quaerat!</p>
