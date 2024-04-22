@@ -61,8 +61,9 @@ function Hero() {
 
         {/* {RIGHT} */}
         <div className="relative flex flex-1 items-start  bg-cover bg-center custom rounded-3xl ">
-            <div className="opacity"></div>
-           <div className="absolute -bottom-5 -left-5 z-20 flex w-[70%] h-[40%] flex-col gap-8 rounded-3xl px-7 py-8 transparentBlur">
+           <div className="opacity"></div>
+           <div className="lg:absolute sm:relative lg:-bottom-5 lg:-left-5   z-20 flex lg:w-[70%] lg:h-[40%] 
+                md:h-[90%] sm:h[30%] flex-col gap-8 rounded-3xl px-7 py-8 transparentBlur">
                <div className="flex flex-col">
                     <div className="flexBetween">
                         <p className="regular-16 text-black">Location</p>

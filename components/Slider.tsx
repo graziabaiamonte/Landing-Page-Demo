@@ -10,7 +10,7 @@ interface SlideProps {
 
 const Slide = ({backgroundImage, title, subtitle, peopleJoined}:SlideProps) => {
   return (
-    <div className={`h-full w-full min-w-[1100px] ${backgroundImage} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}>
+    <div className={`h-full w-[90vw] min-w-[400px] lg:min-w-[1100px] ${backgroundImage} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}>
       <div className="flex h-full flex-col items-start justify-between p-6 lg:px-20 lg:py-20">
         <div className=" flexCenter gap-4 ">
           <div className="rounded-full p-4 bg-white/75 ">

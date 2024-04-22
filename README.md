@@ -1,4 +1,4 @@
-## Modern Landing Page built with Next.js and Typescript
+## Responsive Landing Page built with Next.js and Typescript
 
 ![Landing page demo](public/Coding-landingPage.png)
 
