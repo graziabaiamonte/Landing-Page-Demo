@@ -7,7 +7,7 @@ export const NAV_LINKS = [
     { href: '/', key: 'contact_us', label: 'Contact Us' },
   ];
   
-  // CAMP SECTION
+  // SLIDER SECTION
   export const PEOPLE_URL = [
     '/Landing-page-demo/person-1.png',
     '/Landing-page-demo/person-2.png',
@@ -20,7 +20,6 @@ export const NAV_LINKS = [
     {
       title: 'lorem ipsum demo',
       icon: '/Landing-page-demo/code.svg',
-      variant: 'green',
       description:
         `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when 
@@ -30,7 +29,6 @@ export const NAV_LINKS = [
     {
       title: 'lorem ipsum demo',
       icon: '/Landing-page-demo/calendar.svg',
-      variant: 'green',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
       Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when 
@@ -40,7 +38,6 @@ export const NAV_LINKS = [
     {
       title: 'lorem ipsum demo',
       icon: '/Landing-page-demo/tech.svg',
-      variant: 'green',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
       Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when 
@@ -50,7 +47,6 @@ export const NAV_LINKS = [
     {
       title: 'lorem ipsum demo',
       icon: '/Landing-page-demo/branch.svg',
-      variant: 'orange',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
       Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when 

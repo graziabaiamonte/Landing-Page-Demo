@@ -3,10 +3,10 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
-import Camp from "@/components/Camp";
+import Slider from "@/components/Slider";
 import Features from "@/components/Features";
 import GetApp from "@/components/GetApp";
-import Guide from "@/components/Guide";
+import SectionBasic from "@/components/SectionBasic";
 
 export const metadata: Metadata = {
   title: "Coding",
@@ -19,8 +19,8 @@ function App () {
       <body className="bg-colorBG-50">
         <Navbar/>
         <Hero/>
-        <Camp/>
-        <Guide/>
+        <Slider/>
+        <SectionBasic/>
         <Features/>
         <GetApp/>
         <Footer />

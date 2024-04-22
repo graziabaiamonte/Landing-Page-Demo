@@ -1,13 +1,14 @@
 import { FEATURES } from "@/constants"
 import Image from "next/image"
 
-
 function Features() {
   return (
     <section className='flex-col flexCenter py-24 '>
+
       <div className='max-container padding-container relative
             flex'>
           <div className="z-20 flex w-full flex-col lg:w-[60%]">
+
             <div className="relative">
               <h2 className="bold-40 lg:bold-64 text-white fontHeader">
                 Our Features
@@ -27,7 +28,9 @@ function Features() {
             </ul>
 
           </div>
+          
       </div>
+
     </section>
   )
 }

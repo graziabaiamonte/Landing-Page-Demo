@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-function Guide() {
+function SectionBasic() {
   return (
   <section className='flexCenter flex-col'>
     <div className='padding-container max-container w-full pb-24'>
@@ -63,4 +63,4 @@ function Guide() {
   )
 }
 
-export default Guide
+export default SectionBasic

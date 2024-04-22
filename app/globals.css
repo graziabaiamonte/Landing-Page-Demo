@@ -148,7 +148,7 @@ body {
   }
 
   /* Hero */
-  .hero-map {
+  .hero-section {
     @apply absolute right-0 top-0 h-screen w-screen  md:right-28 xl:-top-60;
   }
 
