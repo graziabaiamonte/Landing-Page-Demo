@@ -1,4 +1,4 @@
-## Visit the [website](https://graziabaiamonte.github.io/Landing-page-demo/)
+## Visit the (https://graziabaiamonte.github.io/Landing-page-demo/)
 
 Modern landing page built with typescript and next.js
 
