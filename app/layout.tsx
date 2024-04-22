@@ -14,8 +14,6 @@ export const metadata: Metadata = {
 };
 
 function App () {
-
-
   return (
     <html lang="en">
       <body className="bg-colorBG-50">
@@ -30,5 +28,4 @@ function App () {
     </html>
   );
 }
-
 export default App
