@@ -1,4 +1,3 @@
-
 import Image from "next/image"
 import Button from "./Button"
 
@@ -34,6 +33,7 @@ function Hero() {
                             alt="star"
                             width={24}
                             height={24}
+                            priority
                         />
                     ))}
                 </div>
@@ -67,7 +67,7 @@ function Hero() {
                <div className="flex flex-col">
                     <div className="flexBetween">
                         <p className="regular-16 text-black">Location</p>
-                        <Image src="/Landing-page-demo/close.svg" alt="close" width={24} height={24}/>
+                        <Image src="/Landing-page-demo/close.svg" alt="close" width={24} height={24}  priority/>
                     </div>
                     <p className="bold-20 text-white">Lorem, ipsum dolor.</p>
                 </div>

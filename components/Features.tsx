@@ -50,6 +50,7 @@ const FeatureItem = ({title, icon, variant, description}:FeatureItem) => {
           alt="mac"
           width={28}
           height={28}
+          priority
         />
       </div>
       <h2 className="bold-20 lg:bold-32 mt-5 capitalize colorText">

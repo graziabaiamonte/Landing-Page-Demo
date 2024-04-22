@@ -16,6 +16,7 @@ function Footer() {
                   alt="logo"
                   width={74}
                   height={29}
+                  priority
                 />
               </Link>
 
@@ -66,6 +67,7 @@ function Footer() {
                               alt="logo"
                               width={24}
                               height={24}
+                              priority
                             />
                           </Link>
                           ))}

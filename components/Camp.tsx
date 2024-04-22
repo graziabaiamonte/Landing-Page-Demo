@@ -19,6 +19,7 @@ const CampSite = ({backgroundImage, title, subtitle, peopleJoined}:CampProps) =>
               alt="map"
               width={28}
               height={28}
+              priority
             />
           </div>
 
@@ -38,6 +39,7 @@ const CampSite = ({backgroundImage, title, subtitle, peopleJoined}:CampProps) =>
               width={52}
               height={52}
               className="inline-block h-10 w-10 rounded-full"
+              priority
             />
            ))}
           </span>

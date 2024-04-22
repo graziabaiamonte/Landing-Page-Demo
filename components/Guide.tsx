@@ -34,6 +34,7 @@ function Guide() {
         width={1440}
         height={380}
         className="w-full object-cover object-center 2xl:rounded-5xl h-3/4"
+        priority
       />
 
       <div className="absolute flex transparentBlur py-8 pl-5 pr-7 gap-3 

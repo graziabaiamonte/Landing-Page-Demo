@@ -39,6 +39,7 @@ function GetApp() {
             alt="phone"
             width={550}
             height={870}
+            priority
           />
         </div>
 
