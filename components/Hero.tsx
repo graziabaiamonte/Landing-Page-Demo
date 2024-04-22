@@ -29,7 +29,7 @@ function Hero() {
                     
                     {Array(5).fill(1).map((_, index) => (
                         <Image
-                            src="/star.svg"
+                            src="/Landing-page-demo/star.svg"
                             key={index}
                             alt="star"
                             width={24}
@@ -67,7 +67,7 @@ function Hero() {
                <div className="flex flex-col">
                     <div className="flexBetween">
                         <p className="regular-16 text-black">Location</p>
-                        <Image src="/close.svg" alt="close" width={24} height={24}/>
+                        <Image src="/Landing-page-demo/close.svg" alt="close" width={24} height={24}/>
                     </div>
                     <p className="bold-20 text-white">Lorem, ipsum dolor.</p>
                 </div>

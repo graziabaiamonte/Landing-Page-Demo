@@ -29,7 +29,7 @@ function Guide() {
     <div className="flexCenter max-container relative w-full h-[800px]">
 
       <Image
-        src="/mac.jpg"
+        src="/Landing-page-demo/mac.jpg"
         alt="mac"
         width={1440}
         height={380}

@@ -12,7 +12,7 @@ function Footer() {
             gap-[10%] md:flex-row'>
               <Link href="/" className="mb-10">
                 <Image
-                  src="/logo.png"
+                  src="/Landing-page-demo/logo.png"
                   alt="logo"
                   width={74}
                   height={29}

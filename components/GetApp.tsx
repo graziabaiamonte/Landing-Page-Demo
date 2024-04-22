@@ -26,7 +26,7 @@ function GetApp() {
               <Button
                 type="button"
                 title="Play Store"
-                icon="/android.svg"
+                icon="/Landing-page-demo/android.svg"
                 variant="btn_white"
                 full
               />
@@ -35,7 +35,7 @@ function GetApp() {
 
         <div className="flex flex-1 items-center justify-end">
           <Image
-            src="/mobile.png"
+            src="/Landing-page-demo/mobile.png"
             alt="phone"
             width={550}
             height={870}

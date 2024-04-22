@@ -9,17 +9,17 @@ export const NAV_LINKS = [
   
   // CAMP SECTION
   export const PEOPLE_URL = [
-    '/person-1.png',
-    '/person-2.png',
-    '/person-3.png',
-    '/person-4.png',
+    '/Landing-page-demo/person-1.png',
+    '/Landing-page-demo/person-2.png',
+    '/Landing-page-demo/person-3.png',
+    '/Landing-page-demo/person-4.png',
   ];
   
   // FEATURES SECTION
   export const FEATURES = [
     {
       title: 'lorem ipsum demo',
-      icon: '/code.svg',
+      icon: '/Landing-page-demo/code.svg',
       variant: 'green',
       description:
         `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -29,7 +29,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'lorem ipsum demo',
-      icon: '/calendar.svg',
+      icon: '/Landing-page-demo/calendar.svg',
       variant: 'green',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -39,7 +39,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'lorem ipsum demo',
-      icon: '/tech.svg',
+      icon: '/Landing-page-demo/tech.svg',
       variant: 'green',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -49,7 +49,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'lorem ipsum demo',
-      icon: '/branch.svg',
+      icon: '/Landing-page-demo/branch.svg',
       variant: 'orange',
       description:
       `Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -87,8 +87,8 @@ export const NAV_LINKS = [
   export const SOCIALS = {
     title: 'Social',
     links: [
-      '/facebook.svg',
-      '/instagram.svg',
-      '/youtube.svg',
+      '/Landing-page-demo/facebook.svg',
+      '/Landing-page-demo/instagram.svg',
+      '/Landing-page-demo/youtube.svg',
     ],
   };
