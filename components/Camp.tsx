@@ -38,8 +38,7 @@ const CampSite = ({backgroundImage, title, subtitle, peopleJoined}:CampProps) =>
               alt="person"
               width={52}
               height={52}
-              className="inline-block h-10 w-10 rounded-full"
-              priority
+              className="inline-block h-10 w-10 rounded-full" 
             />
            ))}
           </span>

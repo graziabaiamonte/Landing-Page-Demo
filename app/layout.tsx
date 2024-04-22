@@ -13,11 +13,9 @@ export const metadata: Metadata = {
   description: "Landing Page Demo",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+function App () {
+
+
   return (
     <html lang="en">
       <body className="bg-colorBG-50">
@@ -32,3 +30,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+export default App
