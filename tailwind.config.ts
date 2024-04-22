@@ -34,10 +34,10 @@ module.exports = {
         },
       },
       backgroundImage: {
-        'bg-img-1': "url('/mac1.jpg')",
-        'bg-img-2': "url('/pc.jpg')",
-        pattern: "url('/binary.jpg')",
-        'pattern-2': "url('/heroBG.jpg')",
+        'bg-img-1': "url('/Landing-page-demo/mac1.jpg')",
+        'bg-img-2': "url('/Landing-page-demo/pc.jpg')",
+        pattern: "url('/Landing-page-demo/binary.jpg')",
+        'pattern-2': "url('/Landing-page-demo/heroBG.jpg')",
       },
       screens: {
         xs: '400px',

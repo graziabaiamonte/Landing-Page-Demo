@@ -53,7 +53,7 @@ function Hero() {
                 <Button
                     type="button" 
                     title="How it work?" 
-                    icon="/play.svg"
+                    icon="/Landing-page-demo/play.svg"
                     variant="btn_purple"
                 />  
             </div>
