@@ -18,7 +18,7 @@ function GetApp() {
               <Button
                 type="button"
                 title="Download App"
-                icon="/apple.svg"
+                icon="/Landing-page-demo/apple.svg"
                 variant="btn_white"
                 full
               />
