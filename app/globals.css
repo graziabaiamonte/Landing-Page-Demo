@@ -205,3 +205,28 @@ body {
 .colorText2{
   color: #8d03e4;
 }
+
+.header-mobile{
+  display: none;
+}
+
+.menuMobile{
+  background-color: #1e232b;
+  height: 40vh;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+@media only screen and (max-width:768px) {
+  .header-mobile {
+    display: block;
+  }
+}
+

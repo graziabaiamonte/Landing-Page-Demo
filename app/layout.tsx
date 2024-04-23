@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 function App () {
   return (
     <html lang="en">
+      <link rel="icon" type="image/x-icon" href="/Landing-page-demo/logo.png" />
       <body className="bg-colorBG-50">
         <Navbar/>
         <Hero/>

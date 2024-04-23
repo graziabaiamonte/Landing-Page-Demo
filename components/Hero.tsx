@@ -66,7 +66,7 @@ function Hero() {
                 md:h-[90%] sm:h[30%] flex-col gap-8 rounded-3xl px-7 py-8 transparentBlur">
                <div className="flex flex-col">
                     <div className="flexBetween">
-                        <p className="regular-16 text-black">Location</p>
+                        <p className="regular-16 text-black">Lorem ipsum</p>
                         <Image src="/Landing-page-demo/close.svg" alt="close" width={24} height={24}  priority/>
                     </div>
                     <p className="bold-20 text-white">Lorem, ipsum dolor.</p>
@@ -74,13 +74,13 @@ function Hero() {
 
                 <div className="flexBetween">
                     <div className="flex flex-col">
-                        <p className="regular-16 block text-black">Distance</p>
-                        <p className="bold-20 text-white">173.45</p>
+                        <p className="regular-16 block text-black">Lorem, ipsum dolor.</p>
+                        <p className="bold-20 text-white">Lorem ipsum dolor sit.</p>
                     </div>
 
                     <div className="flex flex-col">
-                        <p className="regular-16 block text-black">Elevation</p>
-                        <p className="bold-20 text-white">2km</p>
+                        <p className="regular-16 block text-black">Lorem, ipsum dolor.</p>
+                        <p className="bold-20 text-white">Lorem ipsum dolor sit.</p>
                     </div>
                 </div>
                
